@@ -16,10 +16,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/xiaofengsoft/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
-    <img src="https://raw.githubusercontent.com/xiaofengsoft/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
-  </div>
-
 </div>
+<img src="https://raw.githubusercontent.com/xiaofengsoft/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/xiaofengsoft/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
