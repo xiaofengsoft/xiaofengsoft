@@ -18,9 +18,9 @@
   </picture>
 
   <div style="font-size: 0">
-  <img src="https://raw.githubusercontent.com/xiaofengsoft/github-stats/master/generated/languages.svg#gh-dark-mode-only" style="display: inline-block;width: 50%; height: auto; alt="语言">
-  <img src="https://raw.githubusercontent.com/xiaofengsoft/github-stats/master/generated/overview.svg#gh-dark-mode-only" style="display: inline-block;width: 50%; height: auto; alt="语言">
-</div>
+    <img src="https://raw.githubusercontent.com/xiaofengsoft/github-stats/master/generated/languages.svg#gh-dark-mode-only" style="display: inline-block;width: 50%; height: auto; alt="语言"/>
+    <img src="https://raw.githubusercontent.com/xiaofengsoft/github-stats/master/generated/overview.svg#gh-dark-mode-only" style="display: inline-block;width: 50%; height: auto; alt="语言"/>
+  </div>
 
 </div>
 
