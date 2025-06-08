@@ -23,8 +23,3 @@
   </div>
 
 </div>
-
-
-![]()
-
-![](https://raw.githubusercontent.com/xiaofengsoft/github-stats/master/generated/languages.svg#gh-light-mode-only)
